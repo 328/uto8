@@ -70,7 +70,7 @@
 	<key>createdby</key>
 	<string>328</string>
 	<key>description</key>
-	<string>convert unicode to utf8</string>
+	<string>Interchange between unicode and utf-8 is available.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -125,7 +125,7 @@
 				<key>text</key>
 				<string>{query}</string>
 				<key>title</key>
-				<string>unicode_converter</string>
+				<string>uto8</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
